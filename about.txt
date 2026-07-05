@@ -1,1 +1,3 @@
-
+add transcribe feature 
+display over other apps
+bug fixes
