@@ -1,3 +1,2 @@
-add transcribe feature 
-display over other apps
+ui redesing
 bug fixes
