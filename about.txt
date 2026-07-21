@@ -1,2 +1,3 @@
-ui redesing
-bug fixes
+revamped theme
+dynamic borders
+matching typography
