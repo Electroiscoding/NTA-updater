@@ -1,1 +1,4 @@
 critical bug fixes
+improve ui/ux
+added features
+more stable
