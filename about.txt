@@ -1,4 +1,3 @@
 critical bug fixes
-improve ui/ux
-added features
+add chat sounds
 more stable
