@@ -1,1 +1,1 @@
-https://github.com/Electroiscoding/NTA-updater/releases/download/v3.3/netuark-v3.3.0-release.apk
+https://github.com/Electroiscoding/NTA-updater/releases/download/v3.4/NeTuArk-v3.4.0.apk
