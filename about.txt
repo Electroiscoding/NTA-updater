@@ -2,3 +2,4 @@ critical bug fixes
 optimisation
 ui imporvement
 more stable
+high defination profile pic
