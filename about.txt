@@ -1,5 +1,13 @@
-critical bug fixes
-optimisation
-ui imporvement
-more stable
-high defination profile pic
+Added:
+
+news in feed
+NVUT
+The Meet instant meeting
+multi user support
+
+Fixed:
+
+Improved stabililty
+performace fixes
+optimisations
+know bug fixes
