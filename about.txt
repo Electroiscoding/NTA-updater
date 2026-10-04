@@ -1,3 +1,7 @@
+added:
+
+multimodal group system
+
 Fixed:
 
 Improved stabililty
