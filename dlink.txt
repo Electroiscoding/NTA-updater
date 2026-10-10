@@ -1,1 +1,1 @@
-https://github.com/Electroiscoding/NTA-updater/releases/download/v4.11/nta-app-v4.11-release.apk
+https://github.com/Electroiscoding/NTA-updater/releases/download/v4.12/NeTuArk-v4.12-release.apk
