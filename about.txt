@@ -1,6 +1,2 @@
-Fixed:
-
-Improved stabililty
-performace fixes
-optimisations
-know bug fixes
+bug fixes
+switch over to secure internal server
