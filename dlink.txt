@@ -1,1 +1,1 @@
-https://github.com/Electroiscoding/NTA-updater/releases/download/v4.19/nta-4.19-release.apk
+https://github.com/Electroiscoding/NTA-updater/releases/download/v4.20/nta-4.20-release.apk
